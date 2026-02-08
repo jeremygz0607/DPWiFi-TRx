@@ -1,4 +1,4 @@
-# 🧭 DP WiFi Transceiver [Project ID: P-DPWiFiTRX]
+# 🧭 DP WiFi Transceiver [Project ID: P-34]
 
 A MATLAB App Designer and Simulink–based WiFi transceiver (TRX) application for configuring, simulating, and working with DP WiFi systems using MCS 13 and related signal-processing models.
 
@@ -59,15 +59,6 @@ This project provides a desktop application for DP WiFi transceiver design and s
    - Clone or copy the project folder to your machine.  
    - Open MATLAB and set the project folder as the current directory (or add it to the MATLAB path).  
    - Open the app: in the **Apps** tab, use **Open** and select `DPWiFi_TRX.mlapp`, or run:
-   ```matlab
-   app = DPWiFi_TRX;
-   ```
-
-3. **Option B – From installer (if you have a packaged build)**  
-   - Run the installer provided for your platform.  
-   - Use **Uninstal.exe** in the project folder (or from the Start Menu entry) to uninstall when needed.
-
----
 
 ## 🚀 Usage
 
@@ -98,38 +89,12 @@ No `.env` file is used; configuration is through the app UI and/or Simulink mode
 
 ## 🖼 Screenshots
 
-_Add screenshots of the DPWiFi_TRX app and key Simulink model views here._
-
-Example:
-<!-- ![App main window](screenshots/app-main.png) -->
-<!-- ![Simulink model](screenshots/MCS13WiFi_DP32.png) -->
-
----
-
-## 📁 Project Structure
-
-```
-DPWiFiTRXv4r2/
-├── DPWiFi_TRX.mlapp    # Main App Designer GUI
-├── icon.ico            # Application icon
-├── Uninstal.exe        # Uninstaller (packaged deployment)
-├── README.md           # This file
-└── Simulink/
-    ├── B.slx           # Block / subsystem model
-    ├── E.slx           # Encoder (or related) model
-    ├── R.slx           # Receiver model
-    ├── TS.slx          # Time sync (or test/source) model
-    └── MCS13WiFi_DP32.slx  # MCS 13 WiFi DP32 PHY model
-```
-
----
 
 ## 📬 Contact
 
-**Author:** [Your Name]  
-**Email:** your.email@example.com  
-**GitHub:** @yourgithub  
-**Website/Portfolio:** yourwebsite.com  
+**Author:** Jeremy Gomez  
+**Email:** jeremygz0607@gmail.com  
+**GitHub:** @jeremygz0607  
 
 ---
 
@@ -138,5 +103,3 @@ DPWiFiTRXv4r2/
 - MathWorks MATLAB and Simulink documentation.  
 - Communications / DSP toolboxes and block libraries used in the Simulink models.  
 - Icons and assets (e.g., icon.ico) as per your project sources.  
-
-_Update this section with specific libraries, papers, or contributors you want to credit._
