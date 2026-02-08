@@ -87,7 +87,7 @@ No `.env` file is used; configuration is through the app UI and/or Simulink mode
 ---
 
 ## 🖼 Screenshots
-
+MATLAB App.png
 
 ## 📬 Contact
 
