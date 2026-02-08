@@ -58,8 +58,7 @@ This project provides a desktop application for DP WiFi transceiver design and s
 2. **Option A – From source (project folder)**  
    - Clone or copy the project folder to your machine.  
    - Open MATLAB and set the project folder as the current directory (or add it to the MATLAB path).  
-   - Open the app: in the **Apps** tab, use **Open** and select `DPWiFi_TRX.mlapp`, or run:
-
+   - Open the app: in the **Apps** tab, use **Open** and select `DPWiFi_TRX.mlapp`
 ## 🚀 Usage
 
 1. **Start the app**  
